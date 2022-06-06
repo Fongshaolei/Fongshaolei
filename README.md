@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - Read a book a week(non-technical) 📖
 -  🔜
 
-**Languages and Frameworks:**
+**🔨 Skills and Tools:**
 
 
 <div align="center">
@@ -133,7 +133,8 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
     </a>
 </div>
-**Connect with me:**
+
+**📧 Connect with me:**
 <p align="center">
   <a href="https://blog.csdn.net/qq_41860497"><img src="https://img.shields.io/badge/blog-200k+%20pageview-brightgreen" alt="Blog"></a>
   <a href="https://www.zhihu.com/people/you-er-yuan-kang-ba-zi-84-73"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-lao--6-blue" alt="zhihu"></a>
